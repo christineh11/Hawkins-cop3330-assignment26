@@ -7,10 +7,7 @@ import org.junit.Test;
  *  Copyright 2021 Christine Hawkins
  */
 
-import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
 
 public class Main {
 
